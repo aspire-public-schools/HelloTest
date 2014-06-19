@@ -1,0 +1,1 @@
+c:\users\gtsai\documents\visual studio 2012\Projects\HelloTest\HelloTest\bin\Debug\HelloTest.exe.config
